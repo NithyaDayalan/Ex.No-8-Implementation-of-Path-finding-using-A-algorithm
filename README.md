@@ -129,7 +129,7 @@ public class Pathfinding : MonoBehaviour
     }
 }
 ```
-### AICharacter.cs :
+#### AICharacter.cs :
 ```
 using UnityEngine;
 using System.Collections.Generic;
